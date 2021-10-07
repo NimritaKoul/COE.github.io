@@ -1,5 +1,5 @@
 
-[Reva Logo]<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+<img src="https://github.com/NimritaKoul/COE.github.io/blob/main/revalogo2.png" alt="REVALogo" class="inline"/>
 ## REVA University
 ## Department of Science and Technology, Government of India Funded
 ## Center of Excellence for Cognitive Technologies and Cyber Security
