@@ -32,7 +32,7 @@ At present, we are working on 2 DST funded research projects as well as Deep Lea
       - 12 Desktop Machines - Intel Core i7-10700, 4.8GhZ. 16GB RAM
       Total : 15 Machines
       
-3. NVIDIA Jetson Nano 2GB Grant Program -
+3. **NVIDIA Jetson Nano 2GB Grant Program** -
 
     - Posture Correction using Deep Learning
     - Skin Problems Prediction using CNNs
