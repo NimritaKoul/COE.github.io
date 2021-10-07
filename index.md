@@ -1,4 +1,4 @@
-
+![REVA Logo](revalogo2.png)
 # REVA University, School of Computer Science and Engineering
 ## Center of Excellence For Research in Cognitive Technologies and Cyber Security
 The Center houses two research labs funded by **Department of Science and Technology (DST), Government of India**. 
