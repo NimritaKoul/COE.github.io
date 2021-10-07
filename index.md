@@ -10,7 +10,7 @@
 The center has two research labs funded by DST, GoI. 
 At present, we are working on 2 DST funded research projects as well as Deep Learning Projects for Healthcare applications under Nvidia Jetson Nano 2GB Grant Program.
 
-1. DST-ICPS 2018 Grant Project - Cancer Classification using Gene Expression Data
+1. **DST-ICPS 2018 Grant Project - Cancer Classification using Gene Expression Data**
 
       Investigators - Nimrita Koul and Dr. Sunilkumar S Manvi
       
@@ -21,7 +21,7 @@ At present, we are working on 2 DST funded research projects as well as Deep Lea
         - 7 Desktop Machines- Intel Core i7-10700, 4.8GhZ. 8GB RAM
         Total:  9 Machines
         
-2. DST-TIASN 2020 Grant Project - Blockchain Enabled Organ Donation and Transplant System
+2. **DST-TIASN 2020 Grant Project - Blockchain Enabled Organ Donation and Transplant System**
 
       Investigators - Nimrita Koul and Dr. Sunilkumar S Manvi
       
